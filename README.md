@@ -3,7 +3,7 @@
 [![Corded Bot Support Server](https://img.shields.io/discord/757944575594725428?color=2cc3d4&label=Discord%20Support%20Server)](https://discord.gg/CYcNNXP) \
 [![Corded Bot Top.gg](https://top.gg/api/widget/736922979815915631.svg?usernamecolor=FFFFFF&topcolor=000000)](https://discordbots.org/bot/736922979815915631)
 [![Corded Bot Discordbotlist.com](https://discordbotlist.com/api/bots/736922979815915631/widget)](https://discordbotlist.com/bots/736922979815915631)
-[![Corded Bot Discordbotlist.com](https://botsfordiscord.com/api/bot/736922979815915631/widget)](https://botsfordiscord.com/bot/736922979815915631)
+[![Corded Bot Botsfordiscord.com](https://botsfordiscord.com/api/bot/736922979815915631/widget?theme=dark)](https://botsfordiscord.com/bot/736922979815915631)
 
 Corded Bot is a simple Discord bot to make your life easier.
 [Click here to add me to your server!](https://discord.com/oauth2/authorize?client_id=736922979815915631&scope=bot&permissions=2146958847)
