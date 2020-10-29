@@ -10,6 +10,11 @@ Corded Bot is a simple Discord bot to make your life easier.
 
 [Need help? Click here to join the support server!](https://discord.gg/CYcNNXP)
 
+## Bot Updates
+
+Subscribe to our Bot Update channel to be the first to receive new bot updates.
+Subscribe to our Downtime channel to be notified when the bot is down.
+
 ## Bugs/Glitches and Abnormal Behaviour
 
 If you discover a bug/glitch or find that the bot is behaving weirdly, please report it by [joining the support server here](https://discord.gg/CYcNNXP) in the #bugs-and-glitches channel.
